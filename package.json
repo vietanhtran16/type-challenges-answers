@@ -1,0 +1,11 @@
+{
+  "name": "type-challenges-answers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vietanhtran16/type-challenges-answers.git",
+  "author": "Viet Anh Tran <tranvietanh1996@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
